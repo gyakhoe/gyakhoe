@@ -20,6 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Instagram Activity Screen UI clone using flutter | Instagram UI Clone in Flutter](https://www.youtube.com/watch?v=pQFpibtqitg)
+- [Team Process Submission for #HACK20 | Flutter International Hackathon Submission](https://www.youtube.com/watch?v=c-8lK0UKepQ)
+- [Instagram Add Post Screen UI Clone using Flutter | Instagram Add Post Clone | Instagram UI Flutter](https://www.youtube.com/watch?v=ergtH28giKE)
+- [Instagram Explore Screen clone in flutter | Instagram iOS app explore screen UI in flutter](https://www.youtube.com/watch?v=MnasX_uXMpE)
+- [iOS Instagram Home UI Clone Flutter | Day 1 of #100daysofcode](https://www.youtube.com/watch?v=_bspiTB0u3E)
 <!-- YOUTUBE:END -->
 
 ---
