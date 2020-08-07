@@ -20,12 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+- [Instagram Activity Screen UI clone using flutter | Instagram UI Clone in Flutter](https://www.youtube.com/watch?v=pQFpibtqitg)
+- [Team Process Submission for #HACK20 | Flutter International Hackathon Submission](https://www.youtube.com/watch?v=c-8lK0UKepQ)
+- [Instagram Add Post Screen UI Clone using Flutter | Instagram Add Post Clone | Instagram UI Flutter](https://www.youtube.com/watch?v=ergtH28giKE)
+- [Instagram Explore Screen clone in flutter | Instagram iOS app explore screen UI in flutter](https://www.youtube.com/watch?v=MnasX_uXMpE)
+- [iOS Instagram Home UI Clone Flutter | Day 1 of #100daysofcode](https://www.youtube.com/watch?v=_bspiTB0u3E)
 <!-- YOUTUBE:END -->
 
 ---
