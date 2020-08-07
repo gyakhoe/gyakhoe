@@ -31,6 +31,9 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyakhoe)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://gyakhoe.com
 [twitter]: https://twitter.com/gyakhoe
 [youtube]: https://www.youtube.com/channel/UCHLd5x4wh5rguXtgAnjeY2A
