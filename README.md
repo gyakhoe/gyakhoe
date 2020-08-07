@@ -1,6 +1,5 @@
+<img align="center" width=900 alt="banner-image" width="22px" src="https://static.wixstatic.com/media/72d8ed_da844c54abc34fac87085a8982d96428~mv2.png" />
 ### Hi there, I'm Gyague Sonam - aka [gyakhoe][website] 👋
-[<img align="center" width=600 alt="banner-image" width="22px" src="https://static.wixstatic.com/media/72d8ed_da844c54abc34fac87085a8982d96428~mv2.png" />]
-
 
 ## I used to be Java app developer, now I'm a Flutter App Developer
 
