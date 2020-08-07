@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gyakhoe&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gyakhoe&show_icons=true&hide_border=true&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyakhoe)](https://github.com/anuraghazra/github-readme-stats)
 
