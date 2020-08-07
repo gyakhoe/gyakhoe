@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Deploy two apps into Google and Apple app store
-- ⚡ Fun fact: I love listening to Podcast
+- ⚡ Fun fact: I've encounter many musical instrument in my lifetime, but I have no sense of music. 
 
 ### Connect with me:
 
