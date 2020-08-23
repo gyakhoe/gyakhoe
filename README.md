@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beginners guide to software development as a career | Life of software developer in 2020](https://www.youtube.com/watch?v=Guu4PbTHIIA)
 - [Instagram profile screen UI clone using flutter](https://www.youtube.com/watch?v=A4pPO_9ZWV0)
 - [Instagram Activity Screen UI clone using flutter | Instagram UI Clone in Flutter](https://www.youtube.com/watch?v=pQFpibtqitg)
 - [Team Process Submission for #HACK20 | Flutter International Hackathon Submission](https://www.youtube.com/watch?v=c-8lK0UKepQ)
 - [Instagram Add Post Screen UI Clone using Flutter | Instagram Add Post Clone | Instagram UI Flutter](https://www.youtube.com/watch?v=ergtH28giKE)
-- [Instagram Explore Screen clone in flutter | Instagram iOS app explore screen UI in flutter](https://www.youtube.com/watch?v=MnasX_uXMpE)
 <!-- YOUTUBE:END -->
 
 ---
