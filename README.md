@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [MacBook Air 2017 Home setup for 2020 | MacBook Air 2017 external monitor | MacBook Air home setup](https://www.youtube.com/watch?v=vTesC661Qvo)
+- [MacBook Air 2017 Home setup for 2020 | MacBook Air 2017 developer setup | MacBook Air home setup](https://www.youtube.com/watch?v=vTesC661Qvo)
 - [Beginners guide to software development as a career | Life of software developer in 2020](https://www.youtube.com/watch?v=Guu4PbTHIIA)
 - [Instagram profile screen UI clone using flutter](https://www.youtube.com/watch?v=A4pPO_9ZWV0)
 - [Instagram Activity Screen UI clone using flutter | Instagram UI Clone in Flutter](https://www.youtube.com/watch?v=pQFpibtqitg)
