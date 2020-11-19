@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter dev experience macOS Big Sur on MacBook Air 2017 | Big Sur in MacBook Air 2017 | MacBook Dev](https://www.youtube.com/watch?v=1vg2Y-U82k4)
+- [Big Sur on MacBook Air 2017 | Flutter dev experience macOS Big Sur on MacBook Air 2017 | MacBook Dev](https://www.youtube.com/watch?v=1vg2Y-U82k4)
 - [MacBook Air 2017 Home setup for 2020 | MacBook Air 2017 developer setup | MacBook Air home setup](https://www.youtube.com/watch?v=vTesC661Qvo)
 - [Beginners guide to software development as a career | Life of software developer in 2020](https://www.youtube.com/watch?v=Guu4PbTHIIA)
 - [Instagram profile screen UI clone using flutter](https://www.youtube.com/watch?v=A4pPO_9ZWV0)
