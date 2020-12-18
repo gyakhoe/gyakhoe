@@ -3,7 +3,7 @@
 ### Hi there, I'm Gyague Sonam - aka [gyakhoe][website] 👋
 
 ## I'm a Indie Software Developer and a content creator
-# I make Mobile apps using Flutter and Youtube videos.
+### I make Mobile apps using Flutter and Youtube videos.
 
 - 🔭 I’m currently working on a Chat Application
 - 📹 I'm trying my best to create a Youtube video in every two weeks.
