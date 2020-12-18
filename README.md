@@ -38,5 +38,5 @@
 [website]: https://gyakhoe.com
 [twitter]: https://twitter.com/gyakhoe
 [youtube]: https://www.youtube.com/channel/UCHLd5x4wh5rguXtgAnjeY2A
-[instagram]: https://instagram.com/gyakhoe_code
+[instagram]: https://instagram.com/gyakhoe
 [flutterplaylist]: https://www.youtube.com/watch?v=MnasX_uXMpE&list=PLw7cFgKR-F4GKX6NNa1fQUaDzmyNGfF1W
