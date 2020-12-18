@@ -5,9 +5,9 @@
 ## I used to be Java app developer, now I'm a Flutter App Developer
 
 - 🔭 I’m currently working on a Chat Application
+- 📹 I'm trying my best to create a Youtube video in every two weeks.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Deploy two apps into Google and Apple app store
 - ⚡ Fun fact: I've encounter many musical instrument in my lifetime, but I have no sense of music. 
 
 ### Connect with me:
