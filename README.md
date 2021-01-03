@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [2021 Goals as a Software Developer](https://www.youtube.com/watch?v=TZ6XeokVnP4)
 - [Gif Maker App in Flutter | How to create GIF using Flutter | How to use FFmpeg in Flutter](https://www.youtube.com/watch?v=ynTZpAIJRM8)
 - [Voice recorder complete app in Flutter | Audio playback in Flutter | Directory file listing flutter](https://www.youtube.com/watch?v=_LXp1Lgfdk0)
 - [Minimal VS Code extension for Flutter app development in MacBook air 2017 for year 2020 and 2021](https://www.youtube.com/watch?v=U7Z8WbEs11I)
 - [Big Sur on MacBook Air 2017 | Flutter dev experience macOS Big Sur on MacBook Air 2017 | MacBook Dev](https://www.youtube.com/watch?v=1vg2Y-U82k4)
-- [MacBook Air 2017 Home setup for 2020 | MacBook Air 2017 developer setup | MacBook Air home setup](https://www.youtube.com/watch?v=vTesC661Qvo)
 <!-- YOUTUBE:END -->
 
 ---
