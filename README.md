@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to increase your typing speed for coding. How to increase typing speed.](https://www.youtube.com/watch?v=vJAiBP1Hn-U)
 - [Solved problem issues with my flutter app](https://www.youtube.com/watch?v=P8g13KhefFs)
 - [Issues while developing apps.](https://www.youtube.com/watch?v=UhKdKHjHacQ)
 - [Flutter Phone Auth | Firebase phone auth Stateful widget | Firebase phone auth with Flutter Bloc |](https://www.youtube.com/watch?v=2ENVeMl5z9M)
 - [Running two VM and Screen Recording in MacBook Air 2017 | VM on MacBook Air 2017 | Vbox on MacBook](https://www.youtube.com/watch?v=9E2kld2rCxA)
-- [Flutter app to upload audio to Firebase and play from Firebase Storage | Flutter Storage upload](https://www.youtube.com/watch?v=z_s3q9wda4g)
 <!-- YOUTUBE:END -->
 
 ---
