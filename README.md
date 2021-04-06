@@ -24,10 +24,10 @@
 
 <!-- YOUTUBE:START -->
 - [Replying to comments | Join Discords | Future update | Q&A](https://www.youtube.com/watch?v=3iSgUaT4tN4)
-- [New video coming up.](https://www.youtube.com/watch?v=lagNjy8-154)
-- [How to increase your typing speed for coding. How to increase typing speed.](https://www.youtube.com/watch?v=vJAiBP1Hn-U)
-- [Solved problem issues with my flutter app](https://www.youtube.com/watch?v=P8g13KhefFs)
-- [Issues while developing apps.](https://www.youtube.com/watch?v=UhKdKHjHacQ)
+- [New video coming up. #shorts](https://www.youtube.com/watch?v=lagNjy8-154)
+- [How to increase your typing speed for coding. How to increase typing speed. #shorts](https://www.youtube.com/watch?v=vJAiBP1Hn-U)
+- [Solved problem issues with my flutter app. #shorts](https://www.youtube.com/watch?v=P8g13KhefFs)
+- [Issues while developing apps. #shorts](https://www.youtube.com/watch?v=UhKdKHjHacQ)
 <!-- YOUTUBE:END -->
 
 ---
