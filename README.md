@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter web Navigation 2.0 issue #shorts](https://www.youtube.com/watch?v=XvkiP3WSHZ4)
 - [Vs code extension #shorts #codingtips #productivity #codinglife #codingprotip #codetime #codetrack](https://www.youtube.com/watch?v=HPalLSU4vSA)
 - [Naming files and classes #shorts #coding #codingtips #flutterdev](https://www.youtube.com/watch?v=ef_EhdRxhM0)
 - [Replying to comments | Join Discords | Future update | Q&A](https://www.youtube.com/watch?v=3iSgUaT4tN4)
 - [New video coming up. #shorts](https://www.youtube.com/watch?v=lagNjy8-154)
-- [How to increase your typing speed for coding. How to increase typing speed. #shorts](https://www.youtube.com/watch?v=vJAiBP1Hn-U)
 <!-- YOUTUBE:END -->
 
 ---
