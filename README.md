@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Coding motivation #shorts featuring Peter McKinnon](https://www.youtube.com/watch?v=LkihbYVQ-pU)
 - [Using #notion to complete my #flutter project #shorts](https://www.youtube.com/watch?v=Iblw9FBqD7U)
 - [Flutter web Navigation 2.0 issue #shorts](https://www.youtube.com/watch?v=XvkiP3WSHZ4)
 - [Vs code extension #shorts #codingtips #productivity #codinglife #codingprotip #codetime #codetrack](https://www.youtube.com/watch?v=HPalLSU4vSA)
 - [Naming files and classes #shorts #coding #codingtips #flutterdev](https://www.youtube.com/watch?v=ef_EhdRxhM0)
-- [Replying to comments | Join Discords | Future update | Q&A](https://www.youtube.com/watch?v=3iSgUaT4tN4)
 <!-- YOUTUBE:END -->
 
 ---
