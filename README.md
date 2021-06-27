@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build flutter web portfolio and host for free | firebase flutter web hosting | flutter web portfolio](https://www.youtube.com/watch?v=HsHUhh7G8Jg)
 - [Coding motivation #shorts featuring Peter McKinnon](https://www.youtube.com/watch?v=LkihbYVQ-pU)
 - [Using #notion to complete my #flutter project #shorts](https://www.youtube.com/watch?v=Iblw9FBqD7U)
 - [Flutter web Navigation 2.0 issue #shorts](https://www.youtube.com/watch?v=XvkiP3WSHZ4)
 - [Vs code extension #shorts #codingtips #productivity #codinglife #codingprotip #codetime #codetrack](https://www.youtube.com/watch?v=HPalLSU4vSA)
-- [Naming files and classes #shorts #coding #codingtips #flutterdev](https://www.youtube.com/watch?v=ef_EhdRxhM0)
 <!-- YOUTUBE:END -->
 
 ---
