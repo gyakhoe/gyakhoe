@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Codin problem #shorts #flutter #coding #dev life](https://www.youtube.com/watch?v=Q2hsHi6jZJA)
 - [Build #flutter web portfolio and #deploy into #firebase for free. #shorts](https://www.youtube.com/watch?v=7cGwUkS-eUE)
 - [Build flutter web portfolio and host for free | firebase flutter web hosting | #flutter](https://www.youtube.com/watch?v=HsHUhh7G8Jg)
 - [Coding motivation #shorts featuring Peter McKinnon](https://www.youtube.com/watch?v=LkihbYVQ-pU)
 - [Using #notion to complete my #flutter project #shorts](https://www.youtube.com/watch?v=Iblw9FBqD7U)
-- [Flutter web Navigation 2.0 issue #shorts](https://www.youtube.com/watch?v=XvkiP3WSHZ4)
 <!-- YOUTUBE:END -->
 
 ---
