@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyakhoe)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://gyakhoe.com
+[website]: https://gyague-sonam.web.app
 [twitter]: https://twitter.com/gyakhoe
 [youtube]: https://www.youtube.com/channel/UCHLd5x4wh5rguXtgAnjeY2A
 [instagram]: https://instagram.com/gyakhoe
