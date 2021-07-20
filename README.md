@@ -24,7 +24,7 @@
 
 <!-- YOUTUBE:START -->
 - [Migrating to flutter 2 for my old projects #shorts #flutter](https://www.youtube.com/watch?v=k8mT2R514pA)
-- [MacBook Air storage upgrade with Samsung evo 970 plus as a flutter developer and software developer](https://www.youtube.com/watch?v=2sDTXM7DZMI)
+- [Don't upgrade your MacBook Air storage with Samsung Evo M2 drive| MacBook Air 2017 storage upgrade](https://www.youtube.com/watch?v=2sDTXM7DZMI)
 - [Codin problem #shorts #flutter #coding #dev life](https://www.youtube.com/watch?v=Q2hsHi6jZJA)
 - [Build #flutter web portfolio and #deploy into #firebase for free. #shorts](https://www.youtube.com/watch?v=7cGwUkS-eUE)
 - [Build flutter web portfolio and host for free | firebase flutter web hosting | #flutter](https://www.youtube.com/watch?v=HsHUhh7G8Jg)
