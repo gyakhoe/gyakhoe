@@ -26,7 +26,7 @@
 - [Migrating to flutter 2 for my old projects #shorts #flutter](https://www.youtube.com/watch?v=k8mT2R514pA)
 - [Codin problem #shorts #flutter #coding #dev life](https://www.youtube.com/watch?v=Q2hsHi6jZJA)
 - [Build #flutter web portfolio and #deploy into #firebase for free. #shorts](https://www.youtube.com/watch?v=7cGwUkS-eUE)
-- [Build flutter web portfolio and host for free | firebase flutter web hosting | #flutter](https://www.youtube.com/watch?v=HsHUhh7G8Jg)
+- [Host Flutter project in firebase in 10 minutes | Build personal portfolio with flutter | #flutter](https://www.youtube.com/watch?v=HsHUhh7G8Jg)
 - [Coding motivation #shorts featuring Peter McKinnon](https://www.youtube.com/watch?v=LkihbYVQ-pU)
 <!-- YOUTUBE:END -->
 
