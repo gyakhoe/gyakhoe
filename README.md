@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#coding from hilltop #shorts   #flutter #developer #indiedev #indiedevhour](https://www.youtube.com/watch?v=bzcvxacFF4A)
 - [I spent 10,000 INR to upgrade MacBook Air 2017 with Samsung 970 Evo Plus | MacBook Storage Upgrade](https://www.youtube.com/watch?v=J3x0cc8_IfE)
 - [Break from #coding and Travelling to #markhu via #chitlang  #nepal #kathmandu #cycling #adventure.](https://www.youtube.com/watch?v=CRhmmsvd2eI)
 - [Coding tips for beginners #shorts #flutter #developer](https://www.youtube.com/watch?v=DAOwus04E8c)
 - [Typing 100 words per minute as #flutter #developer #coding #shorts](https://www.youtube.com/watch?v=KLGMwRCSO8M)
-- [Migrating to flutter 2 for my old projects #shorts #flutter](https://www.youtube.com/watch?v=k8mT2R514pA)
 <!-- YOUTUBE:END -->
 
 ---
