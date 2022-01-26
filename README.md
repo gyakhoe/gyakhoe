@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [#coding from hilltop #shorts   #flutter #developer #indiedev #indiedevhour](https://www.youtube.com/watch?v=bzcvxacFF4A)
+- [Complete Flutter Chat application with Firebase and Bloc | Part 2 Registration and loading contacts](https://www.youtube.com/watch?v=cZc88BrH6zI)
+- [Complete Flutter Chat application with Firebase and Bloc | Part 1 authentication and setup](https://www.youtube.com/watch?v=fDaSq03GknU)
+- [Monterey on MacBook Air 2017 | Flutter, iOS, Android, dev experience in macOS Monterey](https://www.youtube.com/watch?v=fofYqQD46tQ)
 - [I spent 10,000 INR to upgrade MacBook Air 2017 with Samsung 970 Evo Plus | MacBook Storage Upgrade](https://www.youtube.com/watch?v=J3x0cc8_IfE)
-- [Break from #coding and Travelling to #markhu via #chitlang  #nepal #kathmandu #cycling #adventure.](https://www.youtube.com/watch?v=CRhmmsvd2eI)
-- [Coding tips for beginners #shorts #flutter #developer](https://www.youtube.com/watch?v=DAOwus04E8c)
-- [Typing 100 words per minute as #flutter #developer #coding #shorts](https://www.youtube.com/watch?v=KLGMwRCSO8M)
+- [Host Flutter project in firebase in 10 minutes | Build personal portfolio with flutter | #flutter](https://www.youtube.com/watch?v=HsHUhh7G8Jg)
 <!-- YOUTUBE:END -->
 
 ---
