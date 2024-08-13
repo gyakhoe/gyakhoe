@@ -5,12 +5,6 @@
 ## I'm a Software Developer
 ### Personal Collection of Hobby Projects.
 
-- 🔭 I’m currently working on a Chat Application
-- 📹 I'm trying my best to create a Youtube video in every two weeks.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I've encounter many musical instrument in my lifetime, but I have no sense of music. 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" color="pink" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
