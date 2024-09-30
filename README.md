@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Just a curious soul on a journey to turn coffee into code and dreams into reality. 🌟 I love solving puzzles and learning new things, one line at a time. If you’re here to share ideas, collaborate on something exciting, or just chat about life’s little wonders, let’s connect! 🌈 
+🚀 Just a curious soul on a journey to turn coffee into code and dreams into reality. 🌟 I love solving puzzles and learning new things, one line at a time. If you’re here to share ideas, collaborate on something exciting, or just chat about life’s little wonders, let’s connect! 
 
 
 ## 🌐 Socials:
